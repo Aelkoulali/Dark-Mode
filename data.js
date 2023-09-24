@@ -8,7 +8,7 @@ const articles = [
     },
     {
       id: 2,
-      title: 'Bengales Struggles',
+      title: 'Bengals Struggles',
       date: new Date(2023, 9, 16),
       length: 5,
       snippet: `Two weeks into the season and things are not going quite as the Bengals planned, as they are 0-2 and far from looking like a Super Bowl-caliber team.`,
