@@ -1,6 +1,7 @@
-# Toggle Dark Mode Using Javascript
+# Toggle Dark Mode
+# Javascript
 
-# Key concepts:
+# Key concepts :
 
 ## Toggle - JS
 ###  - Button selection 
