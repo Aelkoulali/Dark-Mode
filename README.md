@@ -1,4 +1,4 @@
-# 🗂️ Toggle Dark Mode
+# 🗂️ Toggle Dark Mode 🌙 ☀️
 ## ➡️ Key concepts :
 
 ###  ✅ Toggle - JS
