@@ -1,3 +1,4 @@
+// Declare variables
 const toggleBtn = document.querySelector('.btn');
 const articlesContainer = document.querySelector('.articles');
 
