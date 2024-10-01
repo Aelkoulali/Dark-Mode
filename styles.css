@@ -66,6 +66,9 @@ Navbar
   cursor: pointer;
 }
 
+.fa-solid {
+  margin-left: 15px;
+}
 .articles {
   padding: 5rem 0;
   width: 90vw;
