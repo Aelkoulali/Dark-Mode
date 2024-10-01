@@ -6,8 +6,7 @@ toggleBtn.addEventListener('click', () => {
   document.documentElement.classList.toggle('dark-theme');
 });
 
-const articlesData = articles
-  .map((article) => {
+const articlesData = articles.map((article) => {
     const { title, date, length, snippet } = article;
     const formatDate = moment(date).format('MMMM Do, YYYY');
     return `<article class="post">
