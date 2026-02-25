@@ -1,16 +1,16 @@
 # 🗂️ Toggle Dark Mode 🌙 ☀️
 ## ➡️ Key concepts :
+## ✅ JavaScript, HTML & CSS
+## ✅ Toggle - JS
+## ✅ Button selection 
+## ✅ Event Listener
 
-###  ✅ Toggle - JS
-###  ✅ Button selection 
-###  ✅ Event Listener
+## ✅ Import Data
 
-### ✅ Import Data
+## ✅ Display Articles
+## ✅ Articles Selection 
+## ✅ Iterate over, Return article.post for each article
 
-### ✅ Display Articles
-### ✅ Articles Selection 
-### ✅ Iterate over, Return article.post for each article
-
-### ✅ Format Date
-### ✅ Import moment.js
-### ✅ Format Date
+## ✅ Format Date
+## ✅ Import moment.js
+## ✅ Format Date
