@@ -1,16 +1,20 @@
 # 🗂️ Toggle Dark Mode 🌙 ☀️
-## ➡️ Key concepts :
-## ✅ JavaScript, HTML & CSS
-## ✅ Toggle - JS
-## ✅ Button selection 
-## ✅ Event Listener
 
-## ✅ Import Data
+A website UI that lets users switch between **light** and **dark** mode. It also loads and displays articles using JavaScript, and allows selecting/filtering articles.
 
-## ✅ Display Articles
-## ✅ Articles Selection 
-## ✅ Iterate over, Return article.post for each article
+## ✅ Key Features
+- Dark mode / light mode **toggle** (with JS)
+- Button + event listener handling
+- Import data (fetch/import) and **display articles**
+- Article selection
+- Iterate through articles and render each post
+- Format article dates using **Moment.js**
+  
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Moment.js
 
-## ✅ Format Date
-## ✅ Import moment.js
-## ✅ Format Date
+## ▶️ How to Run
+1. Open `index.html` in your browser.
