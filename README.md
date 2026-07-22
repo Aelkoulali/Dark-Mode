@@ -17,4 +17,4 @@ A website UI that lets users switch between **light** and **dark** mode. It also
 - Moment.js
 
 ## ▶️ How to Run
-1. Open `index.html` in your browser.
+Open `index.html` in your browser.
